@@ -1,0 +1,7 @@
+elastic:
+  host: https://localhost
+  user: [REDACTED]
+  password: [REDACTED]
+  port: 9200
+  ca_certs: [REDACTED]/http_ca.crt
+  index: nypd_complaints
